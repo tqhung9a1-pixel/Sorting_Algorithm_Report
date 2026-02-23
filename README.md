@@ -11,6 +11,8 @@ Mục tiêu của bài thực nghiệm:
 - So sánh hiệu năng thực tế trên bộ dữ liệu lớn
 - Đánh giá ảnh hưởng của trạng thái dữ liệu đầu vào
 
+Đường dẫn truy cập vào file data: https://drive.google.com/drive/folders/1trmuvN2KvEoMBooND346v9Q-tDx8xvyy?usp=sharing
+
 ---
 
 ## 2. Thành phần dự án
@@ -33,7 +35,6 @@ Mục tiêu của bài thực nghiệm:
 
 - `Data.csv`  
   Mô tả cấu trúc và đặc điểm của bộ dữ liệu sử dụng trong thực nghiệm.
-  Đường dẫn truy cập vào file data: https://drive.google.com/drive/folders/1trmuvN2KvEoMBooND346v9Q-tDx8xvyy?usp=sharing
 
 ---
 
